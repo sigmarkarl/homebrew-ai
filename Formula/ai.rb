@@ -1,4 +1,4 @@
-class OfasWebsocketTranscoder < Formula
+class Ai < Formula
     desc "Convenience wrapper for gh copilot module"
     homepage "https://github.com/sigmarkarl/homebrew-ai"
     url "https://github.com/sigmarkarl/homebrew-ai/releases/download/1.0/ai"
