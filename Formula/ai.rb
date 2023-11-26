@@ -7,7 +7,7 @@ class Ai < Formula
       sha256 "62373ea1bee3b22b0eee558a5087cc09e80de22b2d4cbd31dda9befef25928b5"
     else
       url "https://github.com/sigmarkarl/homebrew-ai/releases/download/1.0x/ai"
-      sha256 "62373ea1bee3b22b0eee558a5087cc09e80de22b2d4cbd31dda9befef25928b5"
+      sha256 "cd60bc2f03acaf848e8c29db3ff3b90dc01f6b29e63311efb165e060c4e7391e"
     end
   
     # depends_on "cmake" => :build
