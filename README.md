@@ -31,3 +31,11 @@ Run suggestion directly
 or
 
 `ai "what time is it" -x`
+
+Also
+
+`ai "show all kubernetes pods"`
+
+Even
+
+`ai "kill process running port 15002" -x`
