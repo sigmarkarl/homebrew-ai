@@ -28,7 +28,7 @@ Run suggestion directly
 
 `ai "what time is it"`
 
-or
+Or
 
 `ai "what time is it" -x`
 
